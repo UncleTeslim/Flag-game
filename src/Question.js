@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Options from './options'
+import Options from './Options'
 import Answer from './Answer';
 import './Question.css';
 
