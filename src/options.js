@@ -1,6 +1,6 @@
 import React from 'react';
 import StyledButton from './StyledButton';
-import './options.css';
+import './Options.css';
 
 const Options =  props => {
   let options = props.options || []
